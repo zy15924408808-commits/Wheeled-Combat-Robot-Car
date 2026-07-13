@@ -1,9 +1,3 @@
-# Build
-Debug/
-Release/
-Objects/
-Listings/
-
 # Keil
 *.axf
 *.map
