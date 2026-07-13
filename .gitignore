@@ -1,0 +1,23 @@
+# Build
+Debug/
+Release/
+Objects/
+Listings/
+
+# Keil
+*.axf
+*.map
+*.o
+*.d
+*.bak
+*.dep
+*.lst
+
+# User settings
+*.uvguix.*
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
